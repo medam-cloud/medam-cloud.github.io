@@ -9,7 +9,7 @@ under-researched metabolites linked to various diseases based on prior
 knowledge from different aspects, which eventually paves the way for in-depth
 future research.
 
-For details, please click <http://medam.cloud/>
+For details, please click <https://medam.cloud/>
 
 ## :runner: Author
 
